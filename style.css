@@ -1,0 +1,37 @@
+body{
+    background-color:aqua;
+    text-align: center;
+}
+.header_div{
+    background-color: rgb(250, 152, 245);
+    color: rgb(236, 163, 103);
+}
+.header_div img{
+    width:100px;
+}
+.main_div{
+    background-color: rgb(231, 205, 202);
+    padding:10px;
+    margin-top:15px;
+    border:white 3px;
+}
+.main_div label{
+    background-color: rgb(255, 181, 255);
+    width:310px;
+    padding:10px;
+    margin-bottom: 0px;
+    box-shadow:5px 5px 10px white;
+}
+#camera{
+    border:2px whitesmoke;
+width:310px;
+height:300px;
+    box-shadow:5px 5px 10px rgb(159, 91, 216);
+}
+
+.main_div button{
+    border:lawngreen;
+    font-size: 16px;
+    box-shadow: 5px 5px 10px yellowgreen;
+    margin-top: 5px;
+}
